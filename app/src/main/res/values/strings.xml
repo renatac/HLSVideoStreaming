@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HLS Video Stream</string>
+    <string name="url_input_label">Digite a URL</string>
+    <string name="invalid_url_message">URL inválida. Deve começar com http:// ou https://</string>
+    <string name="navigate_to_player_button">Ir para o Player</string>
+    <string name="prefix">http://</string>
+    <string name="secure_prefix">https://</string>
+    <string name="type_video_url">Digite a URL do vídeo</string>
+    <string name="play_video">Reproduzir Vídeo</string>
+    <string name="error_message">Erro ao reproduzir o vídeo:</string>
+</resources>
